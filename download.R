@@ -7,7 +7,7 @@ out_dir <- "/pfs/out/"
 
 # Download secondary-screen-replicate-collapsed-treatment-info.csv
 curl_download(
-  "https://ndownloader.figshare.com/files/20237757", 
+  "https://ndownloader.figshare.com/files/20237763", 
   destfile = paste0(out_dir, "secondary-screen-replicate-collapsed-treatment-info.csv")
 )
 
